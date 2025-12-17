@@ -23,8 +23,11 @@ To help store managers and procurement teams monitor stock availability, reorder
 📊 **Key KPIs**
 
 • 📦 Total Stock Left – Current inventory levels
+
 • ⚠️ Low Stock Items – Products with stock below threshold
+
 • 🔄 Auto Reorders Triggered – Items flagged for automatic replenishment
+
 • 📊 Average Reorder Quantity – Mean quantity reordered
 
 📈 **Key Visuals & Insights**
@@ -50,7 +53,9 @@ Evaluates suppliers based on total items delivered and efficiency
 🌟 **Business Impact**
 
 • Prevents stock-outs and overstocking
+
 • Improves supplier management and accountability
+
 • Enhances inventory planning and cost optimization
 
 📄 Page 2: **Sales & Profit Overview (Executive Summary)**
@@ -62,8 +67,11 @@ To give top management a quick, high-level snapshot of the company’s financial
 📊 **Key KPIs**
 
 • 💰 Total Sales – Overall revenue generated
+
 • 📦 Total Quantity Sold – Total units sold across all products
+
 • 💵 Total Profit – Net profit earned
+
 • 🧮 Average Discount (%) – Average discount applied across orders
 
 📈 **Key Visuals & Insights**
@@ -91,12 +99,15 @@ Analyzes customer payment preferences to support financial planning.
 🎛️ **Interactive Filters**
 
 • 📅 Date Range
+
 • 🌍 Region
 
 🌟 **Business Impact**
 
 • Enables executives to track overall financial performance
+
 • Identifies key revenue-driving categories and products
+
 • Supports strategic decisions related to pricing, discounts, and regional focus
 
 📄 Page 3: **Customer & Delivery Insights**
@@ -108,8 +119,11 @@ To analyze customer demographics, purchasing behavior, and delivery performance 
 📊 **Key KPIs**
 
 • 👥 Total Customers – Unique customer count
+
 • 💳 Dominant Payment Mode – Most-used payment method
+
 • 🚚 On-Time Delivery Rate – % of Delivered vs Returned/Cancelled
+
 • 📦 Avg. Order Quantity per Customer – Average quantity ordered per customer
 
 📈 **Key Visuals & Insights**
@@ -129,14 +143,19 @@ Shows profit contribution by customer segment.
 🎛️ **Interactive Filters**
 
 • 👤 Customer Segment
+
 • 🌍 Region
+
 • 💳 Payment Mode
 
 🌟 **Business Impact & Insights**
 
 • Enhances understanding of customer behavior
+
 • Identifies delivery bottlenecks and fulfillment issues
+
 • Supports customer experience and logistics optimization
+
 • Enables targeted marketing and service strategies
 
 🎯 **Overall Goal of the Dashboard**
@@ -144,9 +163,13 @@ Shows profit contribution by customer segment.
 To build a robust, insight-driven Superstore Analytics Dashboard that:
 
 • Tracks core sales, profit, inventory, and delivery KPIs
+
 • Identifies top-performing products, regions, and suppliers
+
 • Improves inventory control and supplier efficiency
+
 • Enhances customer experience and delivery performance
+
 • Supports data-driven retail, operations, and growth decisions
 
 **Screenshot** : 
