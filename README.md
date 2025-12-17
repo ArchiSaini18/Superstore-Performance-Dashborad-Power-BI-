@@ -147,4 +147,10 @@ To build a robust, insight-driven Superstore Analytics Dashboard that:
 • Identifies top-performing products, regions, and suppliers
 • Improves inventory control and supplier efficiency
 • Enhances customer experience and delivery performance
+
+**Screenshot** : 
+Page 1:https://github.com/ArchiSaini18/Superstore-Management-System/blob/main/Page%201.png
+Page 2:https://github.com/ArchiSaini18/Superstore-Management-System/blob/main/Page%202.png
+Page 3:https://github.com/ArchiSaini18/Superstore-Management-System/blob/main/Page%203.png
+
 • Supports data-driven retail, operations, and growth decisions
